@@ -27,3 +27,5 @@ st.write(f"You selected: **{selected_movie}**")
 👉 This will show a dropdown with the movie names and display the selected one.
 
 Do you want me to also add a **recommendation system** (like suggesting similar movies after selection), or just keep it as a dropdown for now?
+
+![Image](1.PNG)

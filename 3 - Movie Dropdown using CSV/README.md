@@ -61,3 +61,7 @@ st.write(f"**Cast:** {movie_data['cast']}")
 # st.write(f"**Crew:** {movie_data['crew']}")
 st.write(f"**Release Date:** {movie_data['release_date']}")
 ```
+
+![Image](1.PNG)
+
+![Image](2.PNG)
