@@ -16,3 +16,7 @@ elif page == "Contact":
     st.title("📞 Contact")
     st.write("Email: example@example.com")
 ```
+
+![Image](1.PNG)
+![Image](2.PNG)
+![Image](3.PNG)
