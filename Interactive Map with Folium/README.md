@@ -1,3 +1,11 @@
+```
+pip install folium
+```
+
+```
+pip install streamlit_folium
+```
+
 ```python
 import streamlit as st
 import folium
